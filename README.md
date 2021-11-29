@@ -3,3 +3,5 @@ A journey of learning and implementing simple codes to learn and practice Machin
 Contained topic:
 1. Single Varite Linear Regrssion
 2. Multi Variate Linear Regression
+3.Feature Transformation
+4.
